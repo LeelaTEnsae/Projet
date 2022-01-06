@@ -1,5 +1,5 @@
 # Analyse des sites de camping en Ile-de-France
-Dans ce projet du cours de Python pour les Data Scientists, nous regardons les sites de camping en Ile-de-France. Nous cherchons à faire un état des lieux de ces sites, non seulement en regardant les aménagements qui y sont, mais également en prenant en compte l'aspect de sécurité de ces sites, ces derniers étant éparpillés un peu partout dans la région Ile-de-France dans des endroits divers. Pour ce faire, nous prenons en compte les spécificités des sites de camping (classement, surface, etc.), ainsi que des facteurs externes qui concernent la sécurité (distance aux postes de police, hôpitaux, etc.). 
+Dans ce projet du cours de Python pour les Data Scientists, nous regardons les sites de camping en Ile-de-France. Nous cherchons à faire un état des lieux de ces sites, non seulement en regardant les aménagements qui y sont, mais également en prenant en compte l'aspect de sécurité de ces sites, ces derniers étant éparpillés un peu partout dans des endroits divers dans la région Ile-de-France. Pour ce faire, nous prenons en compte les spécificités des sites de camping (classement, surface, etc.), ainsi que des facteurs externes qui concernent la sécurité (distance aux postes de police, hôpitaux, etc.). 
 
 Nous vous recommandons de lire nos notebooks dans cet ordre : 
 

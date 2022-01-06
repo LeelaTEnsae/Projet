@@ -3,6 +3,6 @@ Dans ce projet du cours de Python pour les Data Scientists, nous regardons les s
 
 Nous vous recommandons de lire nos notebooks dans cet ordre : 
 
-* prepare_data : nettoyage des bases de données et calcul des distances entre les sites de camping et les hôpitaux/postes de police les plus proches
-* Visualisation : carte montrant les sites de camping et les aménagements/établissements aux alentours
-* Clustering : clustering des sites de camping (et interprétation) avec une attention particulière portée sur l'aspect de sécurité
+* **prepare_data** : nettoyage des bases de données et calcul des distances entre les sites de camping et les hôpitaux/postes de police les plus proches
+* **Visualisation** : carte montrant les sites de camping et les aménagements/établissements aux alentours
+* **Clustering** : clustering des sites de camping (et interprétation) avec une attention particulière portée sur l'aspect de sécurité

@@ -7,4 +7,7 @@ Nous vous recommandons de lire nos notebooks dans cet ordre :
 * **clustering** : Réduction de la dimention du dataset avec l'analyse en composantes principales et clustering des sites de camping par la méthode kmeans. Avec une interprétation des qualités des différents clusters
 * **Visualisation** : carte montrant les sites de camping et les aménagements/établissements aux alentours, analyse de la répartition géographique des différents clusters
 
+**remarques importantes**
 En particulier, le premier notebook nécessite un certain temps d'exécution qui peut être trop grand, pour cela il est presque nécessaire de l'exécuter sur google colab
+
+Dans les fichiers "visualisation" et "clustering", il est nécessaire d'importer les datasets .csv dans colab avant d'exécuter

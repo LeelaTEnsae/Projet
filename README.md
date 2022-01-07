@@ -3,6 +3,8 @@ Dans ce projet du cours de Python pour les Data Scientists, nous regardons les s
 
 Nous vous recommandons de lire nos notebooks dans cet ordre : 
 
-* **prepare_data** : nettoyage des bases de données et calcul des distances entre les sites de camping et les hôpitaux/postes de police les plus proches
-* **clustering** : clustering des sites de camping (et interprétation) avec une attention particulière portée sur l'aspect de sécurité
-* **Visualisation** : carte montrant les sites de camping et les aménagements/établissements aux alentours
+* **prepare_data** : nettoyage des bases de données et calcul des distances entre les sites de camping et les hôpitaux/postes de police les plus proches, donne en sortie un fichier .csv contenant les variables principales qu'on utilise pour le clustering
+* **clustering** : Réduction de la dimention du dataset avec l'analyse en composantes principales et clustering des sites de camping par la méthode kmeans. Avec une interprétation des qualités des différents clusters
+* **Visualisation** : carte montrant les sites de camping et les aménagements/établissements aux alentours, analyse de la répartition géographique des différents clusters
+
+En particulier, le premier notebook nécessite un certain temps d'exécution qui peut être trop grand, pour cela il est presque nécessaire de l'exécuter sur google colab
